@@ -1,0 +1,6 @@
+{
+  "name": "CODING IDE",
+  "description": "Code. Preview. Build. Professional mobile-first development IDE foundation with file management, code editor, preview host, and build system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
